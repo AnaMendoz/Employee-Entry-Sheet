@@ -1,0 +1,11 @@
+#Create a readable list of employee to import to project
+Last         First       ID        Department       Position                Authorizations        Hrs     Gender   City
+Page       Larry       1234      N/A                    CEO                     N/A
+Brin       Sergey      2345      N/A                    CEO                     N/A
+Yang       Jerry       3456      Design (A)             Manager                 FULL
+Filo       David       4567      Networking (B)         Supervisor              Security (C)
+Acosta     Jose        8911      Maintenance (F)        Assistant Supervisor    Security (C)
+Lerner     Sandy       5678      Security (C)           Employee                FULL
+Bosack     Leonard     6789      Waste Department (D)   Employee                Liquor Plant (E)
+Salomon    Juan        7891      Liquor Plant (E)       Employee                Waste Department (D)
+Cristiane  Ronda       9112      Payroll                Employee                Payroll
