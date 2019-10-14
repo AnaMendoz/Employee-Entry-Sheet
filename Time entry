@@ -1,3 +1,7 @@
+#A time entry clock that would identify employees's ids, clock-in and clock-out times, names, building locations by Letter, 
+building location cities, salaries, genders, and total working hours.
+
 #Current entry time should display
-import datetime
+
+import datetime #This module will display current date and time  
 print(datetime.datetime.now())
