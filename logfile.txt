@@ -1,0 +1,10 @@
+2019-12-02 17:11:37.570252 Clocked: in Jerry Yang, Employee:1234, Department:Design, Building:(A), Occupation:Manager, Priority:FULL Access
+2019-12-02 17:11:56.060108 Clocked: out Jerry Yang, Employee:1234, Department:Design, Building:(A), Occupation:Manager, Priority:FULL Access
+2019-12-02 17:12:35.180271 Clocked: in Filo David, Employee:2345, Department:Networking, Building:(B), Occupation:Supervisor, Priority:Security Building
+2019-12-02 17:12:48.700309 Clocked: out Filo David, Employee:2345, Department:Networking, Building:(B), Occupation:Supervisor, Priority:Security Building
+2019-12-02 17:35:59.044782 Clocked: in Jerry Yang, Employee:1234, Department:Design, Building:(A), Occupation:Manager, Priority:FULL Access
+2019-12-02 17:36:05.378147 Clocked: out Jerry Yang, Employee:1234, Department:Design, Building:(A), Occupation:Manager, Priority:FULL Access
+2019-12-10 08:30:03.169987 Clocked: in Jerry Yang, Employee:1234, Department:Design, Building:(A), Occupation:Manager, Priority:FULL Access
+2019-12-10 08:30:27.761734 Clocked: out Jerry Yang, Employee:1234, Department:Design, Building:(A), Occupation:Manager, Priority:FULL Access
+2019-12-10 08:31:16.298420 Clocked: in Filo David, Employee:2345, Department:Networking, Building:(B), Occupation:Supervisor, Priority:Security Building
+2019-12-10 08:31:36.893344 Clocked: out Filo David, Employee:2345, Department:Networking, Building:(B), Occupation:Supervisor, Priority:Security Building
